@@ -7,7 +7,8 @@ import java.sql.SQLException;
 public class Conexion {
 
     private static final String URL =
-        "jdbc:sqlite:C:/Users/Henry Montenegro/OneDrive/Escritorio/ProjectsJava/Biblioteca/db/biblioteca.db";
+        // Poner la ruta .db
+        "jdbc:sqlite:C:";
 
     
     // imprime solo la primera conexión
