@@ -7,7 +7,7 @@ public class ConfiguracionCorreo {
     public static final int PUERTO = 465;
     
     // Tu correo y contraseña (usa variables de entorno en producción)
-    public static final String EMAIL_REMITENTE = "babuba593@gmail.com";
-    public static final String PASSWORD_APP = "ysyumdaizpvooxss";
+    public static final String EMAIL_REMITENTE = "";
+    public static final String PASSWORD_APP = "";
     
 }
